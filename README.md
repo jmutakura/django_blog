@@ -1,8 +1,8 @@
 # Django_blog
 Blog application made with Django 
 
-## Installation
-use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following dependencies:
+## Installation of packages
+use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following package dependencies:
 ```bash
 pip install django
 ```
